@@ -13,3 +13,4 @@
 - Comando git pull
 - Yasmim Vieira amor da minha vida
 - Yasmim Vieira casa comigo?
+- Adicionando git fetch
